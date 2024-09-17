@@ -1,5 +1,5 @@
 # Invoice Search Fast API
-English version of README.md is on [here](/README_EN.md)  
+English version of README.md is on [here](./README_EN.md)  
 <img src="assets/img/Invoice%20Search%20App-logo.png" width="50%">  
 
 ## 本ディレクトリの目的
