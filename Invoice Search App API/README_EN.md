@@ -1,5 +1,5 @@
 # Invoice Search Fast API
-日本語版のREADME.mdは[こちら](/README.md)をご覧ください。  
+日本語版のREADME.mdは[こちら](./README.md)をご覧ください。  
 English version of README.md is translated by OpenAI.  
 <img src="assets/img/Invoice%20Search%20App-logo.png" width="50%">  
 
